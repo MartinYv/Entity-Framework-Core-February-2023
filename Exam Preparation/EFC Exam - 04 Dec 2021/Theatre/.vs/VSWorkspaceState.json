@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataProcessor",
+    "\\DataProcessor\\ExportDto",
+    "\\Datasets",
+    "\\ExportResults"
+  ],
+  "SelectedNode": "\\DataProcessor\\Serializer.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,9 @@
+C:\Users\usr\source\repos\FootballBetting\P03_FootballBetting.Data.Constants\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Constants.deps.json
+C:\Users\usr\source\repos\FootballBetting\P03_FootballBetting.Data.Constants\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Constants.dll
+C:\Users\usr\source\repos\FootballBetting\P03_FootballBetting.Data.Constants\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Constants.pdb
+C:\Users\usr\source\repos\FootballBetting\P03_FootballBetting.Data.Constants\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\FootballBetting\P03_FootballBetting.Data.Constants\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Constants.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\FootballBetting\P03_FootballBetting.Data.Constants\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Constants.AssemblyInfo.cs
+C:\Users\usr\source\repos\FootballBetting\P03_FootballBetting.Data.Constants\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Constants.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\FootballBetting\P03_FootballBetting.Data.Constants\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Constants.dll
+C:\Users\usr\source\repos\FootballBetting\P03_FootballBetting.Data.Constants\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Constants.pdb

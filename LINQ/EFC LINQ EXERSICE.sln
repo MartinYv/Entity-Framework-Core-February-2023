@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicHub", "EFC LINQ\MusicHub.csproj", "{953F8175-2720-4CCB-BD24-B95613F93A2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{953F8175-2720-4CCB-BD24-B95613F93A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953F8175-2720-4CCB-BD24-B95613F93A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953F8175-2720-4CCB-BD24-B95613F93A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953F8175-2720-4CCB-BD24-B95613F93A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5618C805-B30B-4E08-AC12-A716E32A2CF6}
+	EndGlobalSection
+EndGlobal
